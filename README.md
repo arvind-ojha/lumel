@@ -6,14 +6,14 @@ A comprehensive system for analyzing sales data with features for data loading, 
 
 - Node.js >= 18.0.0
 - PostgreSQL >= 12
-- npm or yarn
+- npm
 
 ## Installation
 
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd sales-data-analysis
+cd lumel
 ```
 
 2. Install dependencies:
